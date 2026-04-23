@@ -5,16 +5,19 @@
 
 }
 .header{
+    margin: 20px;
     background-color:#F0F3F2 ;
     padding: 40px;
     display: flex; 
     justify-content: space-between;
+    border-radius: 30px;
 }
 .search{
     border: none;
     width: 250px;
     outline: none;
     padding: auto;
+    
 
 }
 .searching{

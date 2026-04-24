@@ -52,5 +52,11 @@
     height: 420px;
     padding: 15px;
     box-shadow: 20px ;
+    
+}
 
+.cards{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
 }

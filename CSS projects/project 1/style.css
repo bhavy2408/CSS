@@ -49,7 +49,7 @@
     margin: 20px;
     border: 1px solid black;
     width: 250px;
-    height: 420px;
+    height: 430px;
     padding: 15px;
     box-shadow: 20px ;
     
@@ -59,4 +59,9 @@
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
+}
+.button{
+    width: 250px;
+    text-align: right;
+
 }

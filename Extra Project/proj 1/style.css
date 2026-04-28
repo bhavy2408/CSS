@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.box{
+    height: 800px;
+    width: 1800px;
+    border: 1px solid black;
+    margin: auto;
+    margin-top: 100px;
+    display: flex;
+}
+.watch1{
+    border: 1px solid black;
+    width: 200px;
+    height: 225px;
+    margin: 100px;
+}
+.img1{
+    text-align: center;
+    margin-top: 20px ;
+    margin-left: 20px;
+    margin-right: 20px;
+}
